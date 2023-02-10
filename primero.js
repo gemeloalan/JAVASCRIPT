@@ -15,7 +15,7 @@ edad = 30;
         return 3;
     };
     var mifunction =  function(a,b) {
-        return a+b;
+        return a+b ;
 
     }
 
