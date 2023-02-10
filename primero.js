@@ -9,6 +9,7 @@ var edad;
 
 // Inicializacom la variable
 edad = 30;
+// no quedaaaaaaaaa pa
 
 
     function miFunction() {
