@@ -7,7 +7,6 @@ var edad = 30;
 // Se declara la variable
 var edad;
 
-// Inicializacom la variable
 edad = 30;
 
 
