@@ -9,14 +9,13 @@ var edad;
 
 // Inicializacom la variable
 edad = 30;
-
+// aiudaaaaaaaaaa
 
     function miFunction() {
         return 3;
     };
     var mifunction =  function(a,b) {
         return a+b;
-
     }
 
         function saludarEstudiante(ayuda){
