@@ -11,7 +11,7 @@ var edad;
 edad = 30;
 // no quedaaaaaaaaa pa
 
-
+     
     function miFunction() {
         return 3;
     };
