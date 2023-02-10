@@ -9,7 +9,7 @@ resta = (a,b) => {
 }
 resta(8,90);
 multi = (a,b) => {
-    return a*b;
+    return  a*b;
 }
 multi(7,1);
 division = (a,b) => {
